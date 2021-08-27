@@ -1,0 +1,13 @@
+{
+    "tasks": [
+        {
+            "output_type": "mp3",
+            "playlists": [
+                "https://www.youtube.com/watch?v=OzGwAWTJenc&list=PLRqZrgIrTZtL32cwayul6Cz-SbEbvBtha",
+                "https://www.youtube.com/watch?v=0Zw77Y63qck&list=PLRqZrgIrTZtJ-TXJSgQ-axg20QOPF0R7X"
+            ],
+            "videos": [
+            ]
+        }
+    ]
+}
